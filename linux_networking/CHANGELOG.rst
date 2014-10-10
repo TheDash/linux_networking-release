@@ -2,6 +2,9 @@
 Changelog for package linux_networking
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+1.0.6 (2014-10-10)
+------------------
+
 1.0.5 (2014-10-06)
 ------------------
 * Added run_depends for metapackage
