@@ -2,6 +2,11 @@
 Changelog for package asmach
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+1.0.7 (2014-10-10)
+------------------
+* Removed scripts
+* Contributors: TheDash
+
 1.0.6 (2014-10-10)
 ------------------
 * Fixed rospy_DIR not found
