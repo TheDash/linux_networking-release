@@ -2,6 +2,11 @@
 Changelog for package network_detector
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+1.0.6 (2014-10-10)
+------------------
+* Fixed string literal bug
+* Contributors: TheDash
+
 1.0.5 (2014-10-06)
 ------------------
 
