@@ -2,6 +2,17 @@
 Changelog for package hostapd_access_point
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+1.0.9 (2014-10-14)
+------------------
+* Fixed hostapd
+* Fixed hostapd_access_point install
+* Contributors: TheDash
+
+1.0.8 (2014-10-10)
+------------------
+* Removed rosbuild files
+* Contributors: TheDash
+
 1.0.7 (2014-10-10)
 ------------------
 
